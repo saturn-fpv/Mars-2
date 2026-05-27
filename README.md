@@ -62,7 +62,6 @@ Suggested prints:
 
 ## 🏗️ Build Tips
 - Tighten the stack screw with a nut under the AIO to reduce noise  
-- Use **M1.6 washers** under motor screws to protect carbon  
 - Keep battery centered for better CG  
 - For DJI O4 builds: tug away the cables neatly
 - Keep wiring short for better performance and reliability  
@@ -71,7 +70,7 @@ Suggested prints:
 
 ## 🔗 Printables Link
 
-👉 **Printables:** [https://www.printables.com/model/1485191-mars-90-fpv-drone-frame](https://www.printables.com/model/1485191-mars-90-fpv-drone-frame)
+👉 **Printables:** [https://www.printables.com/model/1485191-mars-2-fpv-drone-frame](https://www.printables.com/model/1485191-mars-2-fpv-drone-frame)
 
 ---
 
