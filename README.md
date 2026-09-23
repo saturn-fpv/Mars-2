@@ -38,7 +38,7 @@ The **Mars 2** is a lightweight and durable **90 mm wheelbase unibody frame** de
 - **2 mm carbon fiber:** Balanced between strength and weight, ideal for high-KV micro motors.
 
 ### **Motor Recommendations**
-- **1002, 1003, 1102, 1103, 1202.5 motors**  
+- **1002, 1003, 1102, 1103 motors** with a **6.6 mm bolt circle** (3.3 mm hole radius from center), 3 × M1.4
 - Kv range:  
   - **2S builds:** 9000–14000 Kv  
   - **3S builds:** 6000–9000 Kv  
