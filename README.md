@@ -7,13 +7,13 @@
 The **Mars 2** is a lightweight and durable **90 mm wheelbase unibody frame** designed for high-performance 2-inch FPV builds. It provides excellent rigidity and smooth flight characteristics.
 
 <p align="center">
-  <img src="/images/Mars-90.jpg" width="40%">
-  <img src="/images/Mars-90-flywoo.jpg" width="40%">
+  <img src="/images/Mars-2.jpg" width="40%">
+  <img src="/images/Mars-2-flywoo.jpg" width="40%">
 </p>
 
 <p align="center">
-  <img src="/images/frame_photo.jpg" width="40%">
-  <img src="/images/example_build.jpg" width="40%">
+  <img src="/images/example_build_small.jpg" width="40%">
+  <img src="/images/Mars-series_small.jpg" width="40%">
 </p>
 
 ---
