@@ -4,7 +4,7 @@
 
 ### 2" Unibody FPV Frame
 
-The **Mars 2** is a lightweight and durable **90 mm wheelbase unibody frame** designed for high-performance 2-inch FPV builds. It provides excellent rigidity and smooth flight characteristics.
+The **Mars 2** is a lightweight and durable **90 mm wheelbase unibody frame** designed for high-performance 2-inch FPV builds. It provides excellent rigidity and smooth flight characteristics. This is the perfect park ripper.
 
 <p align="center">
   <img src="/images/Mars-2.jpg" width="40%">
@@ -76,3 +76,8 @@ Suggested prints:
 
 ---
 
+## 🪐 Mars Series
+
+- [Mars 2](https://github.com/saturn-fpv/Mars-2) - 90 mm wheelbase, 2" props, 2 mm carbon
+- [Mars 3](https://github.com/saturn-fpv/Mars-3) - 120 mm wheelbase, 3" props, 2.5 mm carbon
+- [Mars 4](https://github.com/saturn-fpv/Mars-4) - 160 mm wheelbase, 4" props, 3 mm carbon
