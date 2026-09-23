@@ -45,9 +45,12 @@ The **Mars 2** is a lightweight and durable **90 mm wheelbase unibody frame** de
 
 ### **Propeller Size**
 - **2" (51 mm) propellers**  
-  Recommended options:  
-  - HQProp HQProp 2X1X3
-  - Gemfan 2023  
+  Recommended options:
+  - HQProp 2X1X3 tri-blade
+  - HQProp 2X1.5 bi-blade
+  - Gemfan 2023S tri-blade
+  - Gemfan 2009 tri-blade (reference build)
+  - Gemfan 2015 bi-blade
 
 ### **Screw Sizes**
 - **Motor screws:** M1.6 × 4–5 mm (depending on motor base)  
