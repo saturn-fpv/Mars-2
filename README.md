@@ -32,6 +32,15 @@ The **Mars 2** is a lightweight and durable **90 mm wheelbase unibody frame** de
 
 ---
 
+## 🛒 Buy the Frame
+
+The design is free and open source, so you can have it made by any CNC milling service.
+If you'd rather skip the setup, CNCDrones already has the files and milling specs ready, and you can order a frame directly:
+
+**CNCDrones:** [Mars 2 Frame](https://cncdrones.com/mars-2-inch.html)
+
+---
+
 ## 🔧 Build Specifications & Recommendations
 
 ### **Frame Thickness**
