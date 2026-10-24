@@ -63,7 +63,7 @@ If you'd rather skip the setup, CNCDrones already has the files and milling spec
   - HQProp 2X1.5 bi-blade
 
 ### **Screw Sizes**
-- **Motor screws:** M1.6 × 4–5 mm (depending on motor base)  
+- **Motor screws:** M1.4 × 4–5 mm (depending on motor base)  
 - **AIO / stack mounting:**  
   - 25.5×25.5 AIO → M2 × 10-18mm (depending on stack and canopy) 
 
