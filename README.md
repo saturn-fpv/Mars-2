@@ -24,7 +24,6 @@ The **Mars 2** is a lightweight and durable **90 mm wheelbase unibody frame** de
 - **Central mounting platform** for clean AIO or stack installation
 - **Octa-shape base** rigid and enough space for 90° USB-C or Micro-USB ports
 - **90 mm wheelbase** for agile indoor/outdoor flying  
-- **Wide motor protection zones** for better crash resistance  
 - **Compatible with analog and HD systems** (DJI O4, HDZero, Walksnail, analog)  
 - **Lightweight** for improved efficiency and flight time
 - **Step file** for your customization needs
